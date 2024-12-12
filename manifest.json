@@ -1,0 +1,65 @@
+{
+    "name": "Aplicaciones web progresivas",
+    "short_name": "Osvaldo Maye",
+    "description": "Práctica de la asignatura de aplicaciones",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-ES",
+    "icons": [
+        {
+            "src":"./img/APZ.10.png",
+            "sizes":"1024x1024",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.9.png",
+            "sizes":"512x512",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.8.png",
+            "sizes":"384x984",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.7.png",
+            "sizes":"256x256",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.6.png",
+            "sizes":"192x192",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.5.png",
+            "sizes":"128x128",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.4.png",
+            "sizes":"96x96",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.3.png",
+            "sizes":"64x64",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.2.png",
+            "sizes":"32x32",
+            "type": "img/png"
+        },
+        {
+            "src":"./img/APZ.1.png",
+            "sizes":"16x16",
+            "type": "img/png"
+        }
+    ]
+  }
+  
